@@ -1,0 +1,159 @@
+#cabecera{
+	background:url('img/banner.jpg');
+	height:106px;
+	width:900px;
+	background-color:#ff5500;
+	margin-left:175px;
+}
+
+body{
+	margin: 0;
+	padding:0;
+	border-color:#cc0000;
+	color:#000000;
+}
+p, ul, ol, li{
+	font: 10pt Arial,geneva,helvetica;
+	text-align:justify;
+	
+}
+h1{
+	font: bold 14pt Arial,Helvetica, geneva;
+}
+h2{
+	font: bold 12t Arial,Helvetica, geneva;
+}
+
+
+
+h1{ front-size;0pt;
+ front-family:arial;
+ front-weingh:bold;
+ text-align: center;
+ color:black;
+ 
+}
+
+ p {  front-size: 0pt;
+ front-family:arial;
+ text-align: center;
+ color:C433FF;
+ }
+ 
+ 
+ #t2{ 
+ color:green;
+ from-size:100pt;
+ }
+
+
+
+
+
+li:hover {
+	background-color:#e6f1fb;
+	color:000;
+}
+.columnaderecha{
+	position: absolute;
+	left:890px;
+	top:158px;
+	width:24px;
+	padding-left: 150px;
+	z-index:4;
+	color:#C433FF;
+	padding:3px;
+	background-color:#ece6e6;
+	height:598px;
+}
+#contenido{
+	top: 0px;
+	padding: 5px;
+	color:#C433FF;
+	width:700px;
+	height:500px;
+	margin-left: 200px;
+	overflow:auto;
+}
+#contenido h1, #contenido h2{
+	color:#cc0000;
+	
+}
+
+img
+{
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	
+}
+.titulo{
+	background-color:#6e99d4;
+	padding:0;
+	border:1px dotted #e6f1fb:
+	
+}
+
+.columnaizquierda{
+	position:absolute;
+	left:0;
+	width:150px;
+	margin-left:175px;
+	margin-top:0px;
+	color:#C433FF;
+	padding:3px;
+	background-color:#acc6e8;
+	height:650px;
+	
+}
+
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	
+}
+li{
+	margin:0;
+	float:left;
+	border:1px solid #e6f1fb;
+	
+}
+
+li a {
+	display:block;
+	background-color:6e99d4;
+	color:#ffffff;
+	width:122px;
+	padding:3px 0 5px 24px;
+	text-decoration:none;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+img:hover
+{
+	opacity:1.0;
+	filter:alpha(opcity=100);
+	
+}
+#imagen
+{
+	width:50px;
+	height:50px;
+}
+#imagen1
+{
+	width:200px;
+	height:250px;
+}
+.pie{
+	position:absolute;
+	width:900px;
+	top:765px;
+	margin-left:175px;
+	text-align:right;
+	
+	font-size:200%;
+	font-style:italic;
+	color:#fff;
+	background-color:red;
+}
